@@ -32,7 +32,6 @@ D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\
 D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.Properties.Resources.resources
 D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource.write.1.tlog
-D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\App\testfile.txt
 D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\SemanticNetworkManager.exe
 D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\SemanticNetworkManager.pdb
 D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\GraphEditor.exe
