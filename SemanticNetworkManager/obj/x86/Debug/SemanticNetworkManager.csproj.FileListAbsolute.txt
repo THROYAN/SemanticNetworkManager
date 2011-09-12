@@ -1,0 +1,45 @@
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\SemanticNetworkManager.exe
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\SemanticNetworkManager.pdb
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\GraphEditor.exe
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\Library.dll
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\GraphEditor.pdb
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\Library.pdb
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.Properties.Resources.resources
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.exe
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.pdb
+C:\Documents and Settings\Dima\Мои документы\Visual Studio 2010\Projects\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.SemanticNetworkEditorForm.resources
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.exe
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.pdb
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\SemanticNetworkManager.exe
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\SemanticNetworkManager.pdb
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\GraphEditor.exe
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\Library.dll
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\GraphEditor.pdb
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\Library.pdb
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.SemanticNetworkEditorForm.resources
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.Properties.Resources.resources
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Dima\Рабочий стол\TEMP\THROYAN's projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\App\testfile.txt
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.exe
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.pdb
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.SemanticNetworkEditorForm.resources
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.Properties.Resources.resources
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\App\testfile.txt
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\SemanticNetworkManager.exe
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\SemanticNetworkManager.pdb
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\GraphEditor.exe
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\Library.dll
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\GraphEditor.pdb
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\Library.pdb
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.ConceptVertexModifyForm.resources
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.RelationArcModifyForm.resources
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.SemanticGraphConstructorForm.resources
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.AddRelationDefinitionForm.resources

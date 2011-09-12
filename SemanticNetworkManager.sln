@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticNetworkManager", "SemanticNetworkManager\SemanticNetworkManager.csproj", "{48E5F4A6-C404-479B-8526-E04D995FDA62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicLibrary", "..\Library\MagicLibrary.csproj", "{5A79E429-A2BC-4B1E-8DCD-B9C9173A064C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphEditor", "..\GraphEditor\GraphEditor.csproj", "{053E5B57-72F4-4C55-93C0-7D5BAE8BE9D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E5F4A6-C404-479B-8526-E04D995FDA62}.Debug|x86.ActiveCfg = Debug|x86
+		{48E5F4A6-C404-479B-8526-E04D995FDA62}.Debug|x86.Build.0 = Debug|x86
+		{48E5F4A6-C404-479B-8526-E04D995FDA62}.Release|x86.ActiveCfg = Release|x86
+		{48E5F4A6-C404-479B-8526-E04D995FDA62}.Release|x86.Build.0 = Release|x86
+		{5A79E429-A2BC-4B1E-8DCD-B9C9173A064C}.Debug|x86.ActiveCfg = Debug|x86
+		{5A79E429-A2BC-4B1E-8DCD-B9C9173A064C}.Debug|x86.Build.0 = Debug|x86
+		{5A79E429-A2BC-4B1E-8DCD-B9C9173A064C}.Release|x86.ActiveCfg = Release|x86
+		{5A79E429-A2BC-4B1E-8DCD-B9C9173A064C}.Release|x86.Build.0 = Release|x86
+		{053E5B57-72F4-4C55-93C0-7D5BAE8BE9D6}.Debug|x86.ActiveCfg = Debug|x86
+		{053E5B57-72F4-4C55-93C0-7D5BAE8BE9D6}.Debug|x86.Build.0 = Debug|x86
+		{053E5B57-72F4-4C55-93C0-7D5BAE8BE9D6}.Release|x86.ActiveCfg = Release|x86
+		{053E5B57-72F4-4C55-93C0-7D5BAE8BE9D6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
