@@ -42,3 +42,6 @@ D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\
 D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.RelationArcModifyForm.resources
 D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.SemanticGraphConstructorForm.resources
 D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\SemanticNetworkManager.App.Views.AddRelationDefinitionForm.resources
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\bin\Debug\SemanticNetworkManager.exe.config
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\THROYAN projects\SemanticNetworkManager\SemanticNetworkManager\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
